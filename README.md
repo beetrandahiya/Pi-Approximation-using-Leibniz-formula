@@ -60,4 +60,4 @@ The Leibniz formula for
   
  <br> Error is also printed alongside every value of pi in terminal
           
-  
+  <img src="https://github.com/beetrandahiya/Pi-Approximation-using-Leibniz-formula/blob/main/piaproxxoutput2.PNG">
