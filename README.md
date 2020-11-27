@@ -57,3 +57,7 @@ The Leibniz formula for
   <img src="https://github.com/beetrandahiya/Pi-Approximation-using-Leibniz-formula/blob/main/piaproxxoutput.PNG">
   <br>
   Zoomed in at the end of series 
+  
+ <br> Error is also printed alongside every value of pi in terminal
+          
+  
