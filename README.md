@@ -33,7 +33,7 @@ The Leibniz formula for
  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cfa16105f38678c4b8151cd1ac1cd1a0a8d219c6">
  
  <br>
- # Its as simple as that😊
+ <h2>Its as simple as that😊</h2>
  
  # Dependencies
  <ul>
