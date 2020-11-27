@@ -25,7 +25,8 @@ for i in range(1000):
 
         
     
-plt.scatter(x,pivalues,s=0.9)
-plt.ylabel("approximated pi value")
+plt.scatter(x,pivalues,s=2)
+plt.ylabel("Approximated pi value")
+plt.xlabel("Number of terms in the series")
 plt.show()
 
